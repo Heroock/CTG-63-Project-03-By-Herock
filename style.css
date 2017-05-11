@@ -1,0 +1,242 @@
+/* ================================================================================
+ * Name: CSS Style V3.0 || 2017 !!!
+ * Company: Banglasoft@Corporation™ !!!
+ * Founder: Engr. Md Mahadi Hassan Herock !!!
+ * Website URL: http://www.bangla-soft.com !!!
+ * Description: Try To Do Something Better Than Other !!!
+ =============================================================================== */
+
+/* ====================== CSS Styling Start From Here ======================== */
+
+/* ========================= General CSS For All =========================== */
+
+* {
+	margin: 0px;
+	padding: 0px;
+}
+
+body {
+	background: url(images/background.png) repeat fixed;
+}
+
+.main {
+	margin-top: 60px;
+}
+
+.header {
+	box-sizing: border-box;
+	clear: both;
+	overflow: hidden;
+}
+
+.logo img {
+	box-sizing: border-box;
+	float: left;
+	height: 20%;
+	margin: 0px;
+	padding: 0px;
+	width: 20%;
+}
+
+.name h1 {
+	overflow: hidden;
+	width: 100%;
+	color: white;
+	font-family: American Typewriter;
+	font-size: 54px;
+	margin-bottom: -90px;
+	margin-left: 400px;
+	padding: 0px;
+}
+
+.menubar {
+	/* width: %; */
+	background: gray;
+	box-sizing: border-box;
+	border-bottom: 2px solid black;
+	border-right: 2px solid black;
+	border-top: 2px solid black;
+	float: right;
+	font-weight: bold;
+	margin-bottom: 1px;
+	margin-top: 95px;
+}
+
+.menubar ul {
+	list-style: none;
+	margin: 0px;
+	overflow: hidden;
+	padding: 0px;
+}
+
+.menubar ul li {
+	border-left: 2px solid black;
+	float: left;
+}
+
+.menubar ul li a {
+	color: black;
+	display: block;
+	font-size: 18px;
+	padding: 20px 36px;
+	text-decoration: none;
+}
+
+.menubar ul li a:hover {
+	background: black;
+	color: white;
+	font-weight: bold;
+}
+
+.main-content {
+	box-sizing: border-box;
+	clear: both;
+	margin-bottom: 20px;
+	padding: 0px;
+	width: 100%;
+}
+
+.slider img {
+	box-sizing: border-box;
+	box-sizing: border-box;
+	float: left;
+	overflow: hidden;
+	width: 65%;
+}
+
+.content {
+	box-sizing: border-box;
+	margin: 0px;
+	overflow: hidden;
+	padding: 0px 0px 0px 10px;
+	text-align: justify;
+	width: 35%;
+}
+
+.ccontent-up {
+	background: rgba(255, 255, 255, 0.74);
+	border: 2px solid black;
+	margin-bottom: 17px;
+}
+
+.ccontent-down {
+	background: rgba(255, 255, 255, 0.74);
+	border: 2px solid black;
+}
+
+.content h1 {
+	border-bottom: 2px solid black;
+	padding: 5px 10px 5px 10px;
+}
+
+.content p {
+	padding: 5px 10px 5px 10px;
+}
+
+.news-section {
+	background: rgba(64, 81, 79, 0.85);
+	box-sizing: border-box;
+	clear: both;
+	padding: 0px;
+	width: 100%;
+}
+
+.news {
+	box-sizing: border-box;
+	display: inline-block;
+	vertical-align: top;
+	border: 2px solid gray;
+	width: 33.3%;
+}
+
+.news img {
+	box-sizing: border-box;
+	width: 100%;
+}
+
+.news h1 {
+	background: rgba(255, 84, 15, 0.46);
+	border-top: 2px solid gray;
+	border-bottom: 2px solid gray;
+	color: black;
+	font-size: 20px;
+	margin-top: -4px;
+	padding: 15px;
+	text-align: center;
+	text-align: center;
+	text-transform: capitalize;
+}
+
+.news h1:hover {
+	background: rgba(0, 142, 0, 0.51);
+	color: rgb(252, 196, 89);
+	font-weight: bold;
+}
+
+.news p {
+	color: white;
+	padding: 15px;
+	text-align: justify;
+}
+
+.news-sub {
+	border: 2px solid gray;
+	padding-bottom: 35px;
+}
+
+#border {
+	border: 0px none;
+}
+
+.news-sub img {
+	height: 50%;
+	margin: 0px;
+	padding: 0px;
+	border-bottom: 0px;
+	width: 50%;
+}
+
+#margin img {
+	margin-left: 23.5%;
+}
+
+.distance {
+	margin-bottom: 21px;
+}
+
+button {
+	border-radius: 2px;
+	display: block;
+	float: right;
+	margin: 20px 0px 10px 0px;
+}
+
+button a {
+	display: block;
+	font-size: 13px;
+	padding: 10px;
+	text-decoration: none;
+}
+
+button a:hover {
+	background: blue;
+	color: white;
+}
+
+.footer {
+	background: rgba(19, 64, 147, 0.85);
+	margin-top: 20px;
+	padding: 30px;
+	text-align: center;
+}
+
+.footer p {
+	color: rgb(189, 255, 195);
+	font-size: 20px;
+	font-weight: bold;
+	text-align: center;
+}
+
+/* ==================== General CSS For All End Here ======================= */
+
+/* ======================= CSS Styling End From Here ========================= */
